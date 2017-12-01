@@ -36,6 +36,12 @@ function agilityweb_register_required_plugins() {
 		),
 		
 		array(
+			'name' 		=> 'Contact Form 7',
+			'slug' 		=> 'contact-form-7',
+			'required' 	=> false,
+		),
+		
+		array(
 			'name' 		=> 'Password Protected',
 			'slug' 		=> 'password-protected',
 			'required' 	=> false,
