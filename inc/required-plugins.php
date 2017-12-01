@@ -78,12 +78,6 @@ function agilityweb_register_required_plugins() {
 		),
 		
 		array(
-			'name' 		=> 'UpdraftPlus Backup',
-			'slug' 		=> 'updraftplus',
-			'required' 	=> false,
-		),
-		
-		array(
 			'name' 		=> 'WP 0ptimize',
 			'slug' 		=> 'wp-optimize',
 			'required' 	=> false,
