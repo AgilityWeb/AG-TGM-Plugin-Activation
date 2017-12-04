@@ -42,6 +42,12 @@ function agilityweb_register_required_plugins() {
 		),
 		
 		array(
+			'name' 		=> 'WP Mail SMTP',
+			'slug' 		=> 'wp-mail-smtp',
+			'required' 	=> false,
+		),
+		
+		array(
 			'name' 		=> 'Contact Form 7',
 			'slug' 		=> 'contact-form-7',
 			'required' 	=> false,
