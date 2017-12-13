@@ -88,7 +88,11 @@ function agilityweb_register_required_plugins() {
 			'slug' 		=> 'ewww-image-optimizer',
 			'required' 	=> false,
 		),
-		
+		array(
+			'name' 		=> 'Regenerate Thumbnails',
+			'slug' 		=> 'regenerate-thumbnails',
+			'required' 	=> false,
+		),		
 		array(
 			'name' 		=> 'UpdraftPlus Backup',
 			'slug' 		=> 'updraftplus',
